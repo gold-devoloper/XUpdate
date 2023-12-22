@@ -1,6 +1,6 @@
 {
   "hasUpdate": true,
-  "isIgnorable": true,
+  "isIgnorable": false,
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 2,
