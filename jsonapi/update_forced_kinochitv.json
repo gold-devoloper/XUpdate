@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 2,
-  "VersionCode": 11,
-  "VersionName": "1.0.11",
+  "VersionCode": 12,
+  "VersionName": "1.0.12",
   "UploadTime": "2024-01-28 20:28:41",
-  "ModifyContent": "\r\n1、Ilova ishlashi yaxshilandi\r\n2、Online o'rnatib oling\r\n3、Yangiliklar kiritildi\r\n4、Telegram orqali ham yangilab olishingiz mumkin. https://t.me/kinochitv",
-  "DownloadUrl": "https://archive.org/download/app-kinochi-release_202401/app-Kinochi-release.apk",
+  "ModifyContent": "\r\n1、Ilova ishlashi yaxshilandi\r\n2、Online o'rnatib oling\r\n3、Yuklab olish qo'shildi\r\n4、Telegram orqali ham yangilab olishingiz mumkin. https://t.me/kinochitv",
+  "DownloadUrl": "https://archive.org/download/app-kinochi-release_202402/app-Kinochi-release.apk",
   "ApkSize": 22096,
   "ApkMd5": ""
 }
